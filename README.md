@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Your Profile Image URL]" alt="Amanullah Amjadh" width="150" style="border-radius:50%; border:4px solid #ff79c6; box-shadow: 0 0 10px #bd93f9;" />
+  <!--img src="[Your Profile Image URL]" alt="Amanullah Amjadh" width="150" style="border-radius:50%; border:4px solid #ff79c6; box-shadow: 0 0 10px #bd93f9;" /-->
   <h1 style="color:#f8f8f2;">👨‍💻 Amanullah Amjadh</h1>
   <h2 style="color:#ff79c6; animation: fadeIn 2s;">🚀 Frontend Developer | Crafting Pixel-Perfect Experiences from Sri Lanka</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=%23ff79c6&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Web+Magic!;Code.+Coffee.+Creativity.;Building+the+Future,+One+Pixel+at+a+Time!" alt="Typing Animation" />
@@ -85,7 +85,7 @@ Check out my standout projects with a visual twist:
 
 - 🛍️ **Modern UI Design**  
   A sleek e-commerce website homepage with a stunning UI design.  
-  <a href="https://github.com/amjadh2003/modern-ui-design">
+  <!--a href="https://github.com/amjadh2003/modern-ui-design">
     <img src=""C:\Users\AMJADH\Desktop\ui.jpg"" alt="Modern UI Design" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>  
   [View Repository](https://github.com/amjadh2003/modern-ui-design)
@@ -94,7 +94,7 @@ Check out my standout projects with a visual twist:
   A frontend-only admin and student dashboard using local storage for seamless data management.  
   <!--a href="https://github.com/amjadh2003/exam-management-system">
     <img src="" alt="Exam Management System" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-  </a-->  
+  </a>  
   [View Repository](https://github.com/amjadh2003/exam-management-system)
 
 Explore more in my repositories! 🚀
