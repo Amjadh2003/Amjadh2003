@@ -51,7 +51,7 @@ Here’s my toolkit for building awesome web experiences:
 <div style="background: linear-gradient(90deg, #ff79c6, #bd93f9); height: 2px; margin: 20px 0;"></div>
 
 ### 📊 GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=amjadh2003&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Aman's GitHub Stats" style="margin: 10px; animation: fadeIn 2s;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadh2003&theme=dracula&hide_border=true" alt="Aman's GitHub Streak" style="margin: 10px; animation: fadeIn 2s;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadh2003&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Aman's Top Languages" style="margin: 10px; animation: fadeIn 2s;" />
