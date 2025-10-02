@@ -86,14 +86,14 @@ Check out my standout projects with a visual twist:
 - 🛍️ **Modern UI Design**  
   A sleek e-commerce website homepage with a stunning UI design.  
   <a href="https://github.com/amjadh2003/modern-ui-design">
-    <img src="[Project Screenshot or GIF URL for Modern UI Design]" alt="Modern UI Design" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://www.figma.com/proto/qcOqFgPVEAYOuIDTmyUIDH/ecommerce?node-id=0-1&t=DYRBX1FOEe5LgSls-1" alt="Modern UI Design" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>  
   [View Repository](https://github.com/amjadh2003/modern-ui-design)
 
 - 🏀 **Exam Management System**  
   A frontend-only admin and student dashboard using local storage for seamless data management.  
   <a href="https://github.com/amjadh2003/exam-management-system">
-    <img src="[Project Screenshot or GIF URL for Exam Management System]" alt="Exam Management System" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="" alt="Exam Management System" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>  
   [View Repository](https://github.com/amjadh2003/exam-management-system)
 
@@ -122,9 +122,4 @@ Love my projects? Fuel my coding adventures with a coffee!
   <p style="color:#f8f8f2;"><i>“Code is like humor. When you have to explain it, it’s bad.”</i> – Let’s write self-explanatory code together! 😄</p>
 </div>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
+
