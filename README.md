@@ -116,7 +116,6 @@ Love my projects? Fuel my coding adventures with a coffee!
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Coding Animation" width="200" />
   <p style="color:#f8f8f2;"><i>“Code is like humor. When you have to explain it, it’s bad.”</i> – Let’s write self-explanatory code together! 😄</p>
 </div>
 
