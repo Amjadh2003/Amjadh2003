@@ -86,15 +86,15 @@ Check out my standout projects with a visual twist:
 - 🛍️ **Modern UI Design**  
   A sleek e-commerce website homepage with a stunning UI design.  
   <a href="https://github.com/amjadh2003/modern-ui-design">
-    <img src="https://www.figma.com/proto/qcOqFgPVEAYOuIDTmyUIDH/ecommerce?node-id=0-1&t=DYRBX1FOEe5LgSls-1" alt="Modern UI Design" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src=""C:\Users\AMJADH\Desktop\ui.jpg"" alt="Modern UI Design" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>  
   [View Repository](https://github.com/amjadh2003/modern-ui-design)
 
 - 🏀 **Exam Management System**  
   A frontend-only admin and student dashboard using local storage for seamless data management.  
-  <a href="https://github.com/amjadh2003/exam-management-system">
+  <!--a href="https://github.com/amjadh2003/exam-management-system">
     <img src="" alt="Exam Management System" width="300" style="border-radius:10px; border:2px solid #bd93f9; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>  
+  </a-->  
   [View Repository](https://github.com/amjadh2003/exam-management-system)
 
 Explore more in my repositories! 🚀
